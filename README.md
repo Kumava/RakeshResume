@@ -17,6 +17,10 @@ I’ve created a **Resume Template** using **HTML** and **CSS** to showcase my s
 
 ---
 
+
+![image alt](https://github.com/Kumava/RakeshResume/blob/d1f0bdb67f39efae6069b808bf9db8073b224356/Screenshot%202025-01-31%20194422.png)
+
+
 ## 🚀 What's Next?  
 
 I'm working on enhancing my skills and diving deeper into web development. Stay tuned for more updates!  
