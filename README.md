@@ -19,6 +19,7 @@ I’ve created a **Resume Template** using **HTML** and **CSS** to showcase my s
 
 
 ![image alt](https://github.com/Kumava/RakeshResume/blob/d1f0bdb67f39efae6069b808bf9db8073b224356/Screenshot%202025-01-31%20194422.png)
+![image alt](https://github.com/Kumava/RakeshResume/blob/1cedd2d6c777eb8936029abc86fd7542c7e787bc/Screenshot%202025-01-31%20194459.png)
 
 
 ## 🚀 What's Next?  
